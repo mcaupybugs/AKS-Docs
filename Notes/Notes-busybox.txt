@@ -1,0 +1,5 @@
+BusyBox is a collection of core Unix utilities packaged as a single binary. This makes it ideal for resource-constrained environments such as embedded devices. The complete distribution has almost 400 of the most common commands.
+
+To run a wget command in aks container, we can use busybox image. Run the container, go into terminals interactive shell and then run the wget. Like the command - kubectl run busybox --image=busybox --restart=Never --rm -it -n ckad -- wget -O 10.244.0.13
+
+https://busybox.net/developer.html

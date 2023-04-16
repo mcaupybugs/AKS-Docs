@@ -1,1 +1,2 @@
 1. Using -- after a command ends the commands and opens up to write extra parameter after the command (https://unix.stackexchange.com/questions/11376/what-does-double-dash-mean)
+2. After wget -O using an additional - like -O- is for stdout on terminal.
