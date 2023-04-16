@@ -1,0 +1,3 @@
+https://www.hostinger.in/tutorials/wget-command-examples/
+
+You can always do wget --help to get in terminal help of command

@@ -1,3 +1,0 @@
-Wget
-Grep
-command -- command -> -- tells end of command
